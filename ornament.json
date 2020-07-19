@@ -1,0 +1,379 @@
+{
+    "datas": {
+        "plant": [
+            {
+                "name": "豌豆射手",
+                "target": ["reanim/ornament_peashooter_1"],
+                "ornaments": [
+                    ["无装扮", "reanim/ornament_peashooter_10"],
+                    ["小皇冠", "reanim/ornament_peashooter_3"],
+                    ["棒球帽", "reanim/ornament_peashooter_4"],
+		    		["幸运四叶草", "reanim/ornament_peashooter_5"],
+		    		["独行侠", "reanim/ornament_peashooter_6"],
+		    		["绿影侠", "reanim/ornament_peashooter_7"],
+		    		["爱心发卡", "reanim/ornament_peashooter_8"],
+		    		["暖男耳罩", "reanim/ornament_peashooter_9"],
+		    		["绅士帽", "reanim/ornament_peashooter_2"]
+                ]
+            },
+            {
+                "name": "向日葵",
+                "target": ["reanim/ornament_sunflower_1"],
+                "ornaments": [
+                    ["无装扮", "reanim/ornament_sunflower_2"],
+                    ["红框墨镜", "reanim/ornament_sunflower_3"],
+                    ["爱心墨镜", "reanim/ornament_sunflower_4"],
+		    		["白色百叶镜", "reanim/ornament_sunflower_5"],
+		    		["蓝底墨镜", "reanim/ornament_sunflower_6"],
+		    		["耀斑花", "reanim/ornament_sunflower_7"],
+		    		["红色蝴蝶结", "reanim/ornament_sunflower_8"],
+		    		["小礼帽", "reanim/ornament_sunflower_9"],
+		    		["巫师帽", "reanim/ornament_sunflower_10"]
+                ]
+            },
+            {
+                "name": "樱桃炸弹",
+                "target": ["reanim/ornament_cherrybomb_left_1", "reanim/ornament_cherrybomb_right_1"],
+                "ornaments": [
+                    ["无装扮", "reanim/ornament_cherrybomb_left_5", "reanim/ornament_cherrybomb_right_5"],
+                    ["双子特工", "reanim/ornament_cherrybomb_left_2", "reanim/ornament_cherrybomb_right_2"],
+                    ["粉色遮阳帽", "reanim/ornament_cherrybomb_left_3", "reanim/ornament_cherrybomb_right_3"],
+                    ["绅士套装", "reanim/ornament_cherrybomb_left_4", "reanim/ornament_cherrybomb_right_4"]
+                ]
+            },
+			{
+                "name": "土豆雷",
+                "target": ["reanim/ornament_potatomine_1"],
+                "ornaments": [
+                    ["无装扮", "reanim/ornament_potatomine_6"],
+                    ["忍者眼罩", "reanim/ornament_potatomine_2"],
+                    ["愚人眼镜", "reanim/ornament_potatomine_3"],
+					["绅士套装", "reanim/ornament_potatomine_4"],
+                    ["蓝框眼镜", "reanim/ornament_potatomine_5"]
+                ]
+            },
+			{
+                "name": "寒冰射手",
+                "target": ["reanim/ornament_snowpea_1"],
+                "ornaments": [
+                    ["无装扮", "reanim/ornament_snowpea_6"],
+                    ["粉色遮耳帽", "reanim/ornament_snowpea_2"],
+                    ["绿绒帽", "reanim/ornament_snowpea_3"],
+		    		["抗寒棉帽", "reanim/ornament_snowpea_4"],
+		    		["绅士帽", "reanim/ornament_snowpea_5"]
+                ]
+            },
+			{
+                "name": "大嘴花",
+                "target": ["reanim/ornament_chomper_1"],
+                "ornaments": [
+                    ["无装扮", "reanim/ornament_chomper_3"],
+                    ["红色遮阳帽", "reanim/ornament_chomper_2"]
+                ]
+            },
+            {
+                "name": "双发射手",
+                "target": ["reanim/ornament_repeater_1"],
+                "ornaments": [
+                    ["无装扮", "reanim/ornament_repeater_7"],
+                    ["德古拉", "reanim/ornament_repeater_3"],
+                    ["棉帽", "reanim/ornament_repeater_4"],
+		    		["绅士帽", "reanim/ornament_repeater_5"],
+		    		["仲夏草帽", "reanim/ornament_repeater_6"],
+		    		["维京帽", "reanim/ornament_repeater_2"]
+                ]
+            },
+		    {
+                "name": "小喷菇",
+                "target": ["reanim/ornament_puffshroom_1"],
+                "ornaments": [
+                    ["无装扮", "reanim/ornament_puffshroom_4"],
+                    ["深蓝牛仔帽", "reanim/ornament_puffshroom_2"],
+                    ["大牛角", "reanim/ornament_puffshroom_3"]
+                ]
+            },
+			{
+                "name": "阳光菇",
+                "target": ["reanim/ornament_sunshroom_1"],
+                "ornaments": [
+                    ["无装扮", "reanim/ornament_sunshroom_3"],
+                    ["灰色面罩", "reanim/ornament_sunshroom_2"]
+                ]
+            },
+            {
+                "name": "大喷菇",
+                "target": ["reanim/ornament_fumeshroom_1_1","reanim/ornament_fumeshroom_2_1"],
+                "ornaments": [
+                    ["无装扮", "reanim/ornament_fumeshroom_1_3","reanim/ornament_fumeshroom_2_3"],
+                    ["大号眼镜", "reanim/ornament_fumeshroom_1_3","reanim/ornament_fumeshroom_2_2"],
+                    ["暗夜菇", "reanim/ornament_fumeshroom_1_2","reanim/ornament_fumeshroom_2_3"]
+                ]
+            },
+			{
+                "name": "墓碑吞噬者",
+                "target": ["reanim/ornament_gravebuster_1"],
+                "ornaments": [
+                    ["无装扮", "reanim/ornament_gravebuster_5"],
+                    ["绅士帽", "reanim/ornament_gravebuster_2"],
+                    ["墨西哥帽", "reanim/ornament_gravebuster_3"],
+                    ["土耳其帽", "reanim/ornament_gravebuster_4"]
+                ]
+            },
+			{
+                "name": "魅惑菇",
+                "target": ["reanim/ornament_hypnoshroom_1"],
+                "ornaments": [
+                    ["无装扮", "reanim/ornament_hypnoshroom_3"],
+                    ["魅惑头饰", "reanim/ornament_hypnoshroom_2"]
+                ]
+            },
+			{
+                "name": "莲叶",
+                "target": ["reanim/ornament_lilypad_1"],
+                "ornaments": [
+                    ["无装扮", "reanim/ornament_lilypad_3"],
+                    ["莲花", "reanim/ornament_lilypad_2"]
+                ]
+            },
+            {
+                "name": "窝瓜",
+                "target": ["reanim/ornament_squash_1"],
+                "ornaments": [
+                    ["无装扮", "reanim/ornament_squash_5"],
+                    ["迷彩头巾", "reanim/ornament_squash_2"],
+                    ["粉色头巾", "reanim/ornament_squash_3"],
+                    ["绅士帽", "reanim/ornament_squash_4"]
+                ]
+            },
+            {
+                "name": "三线射手",
+                "target": ["reanim/ornament_threepeater_1"],
+                "ornaments": [
+                    ["无装扮", "reanim/ornament_threepeater_5"],
+                    ["小铁锅", "reanim/ornament_threepeater_2"],
+                    ["派对帽", "reanim/ornament_threepeater_3"],
+                    ["绅士帽", "reanim/ornament_threepeater_4"]
+                ]
+            },
+			{
+                "name": "缠绕海草",
+                "target": ["reanim/ornament_tanglekelp_1"],
+                "ornaments": [
+                    ["无装扮", "reanim/ornament_tanglekelp_3"],
+                    ["丝巾", "reanim/ornament_tanglekelp_2"]
+                ]
+            },
+            {
+                "name": "地刺",
+                "target": ["reanim/ornament_caltrop_1"],
+                "ornaments": [
+                    ["无装扮", "reanim/ornament_caltrop_6"],
+                    ["Groucho Marx", "reanim/ornament_caltrop_2"],
+                    ["3D眼镜", "reanim/ornament_caltrop_3"],
+                    ["圈圈眼镜", "reanim/ornament_caltrop_4"],
+                    ["绅士眼镜", "reanim/ornament_caltrop_5"]
+                ]
+            },
+            {
+                "name": "火炬树桩",
+                "target": ["reanim/ornament_torchwood_1"],
+                "ornaments": [
+                    ["无装扮", "reanim/ornament_torchwood_6"],
+                    ["防水泳镜", "reanim/ornament_torchwood_2"],
+                    ["超新星潮镜", "reanim/ornament_torchwood_3"],
+                    ["绅士套装", "reanim/ornament_torchwood_4"],
+                    ["火爆队长", "reanim/ornament_torchwood_5"]
+                ]
+            },
+            {
+                "name": "高坚果",
+                "target": ["reanim/ornament_tallnut_1"],
+                "ornaments": [
+                    ["无装扮", "reanim/ornament_tallnut_8"],
+                    ["棕色胡子", "reanim/ornament_tallnut_2"],
+                    ["浓黑大胡子", "reanim/ornament_tallnut_3"],
+                    ["绅士套装", "reanim/ornament_tallnut_4"],
+                    ["红白条纹服", "reanim/ornament_tallnut_5"],
+                    ["爱心围巾", "reanim/ornament_tallnut_6"],
+                    ["八字胡", "reanim/ornament_tallnut_7"]
+                ]
+            },
+			{
+                "name": "路灯花",
+                "target": ["reanim/ornament_plantern_1"],
+                "ornaments": [
+                    ["无装扮", "reanim/ornament_plantern_3"],
+                    ["黑色女巫帽", "reanim/ornament_plantern_2"]
+                ]
+            },
+            {
+                "name": "仙人掌",
+                "target": ["reanim/ornament_cactus_1"],
+                "ornaments": [
+                    ["无装扮", "reanim/ornament_cactus_5"],
+                    ["运动装", "reanim/ornament_cactus_2"],
+                    ["蓝灰马甲", "reanim/ornament_cactus_3"],
+                    ["霹雳帽", "reanim/ornament_cactus_4"]
+                ]
+            },
+            {
+                "name": "三叶草",
+                "target": ["reanim/ornament_blover_1"],
+                "ornaments": [
+                    ["无装扮", "reanim/ornament_blover_5"],
+                    ["金边眼镜", "reanim/ornament_blover_2"],
+                    ["粉红眼镜", "reanim/ornament_blover_3"],
+                    ["绅士帽", "reanim/ornament_blover_4"]
+                ]
+            },
+            {
+                "name": "杨桃",
+                "target": ["reanim/ornament_starfruit_1"],
+                "ornaments": [
+                    ["无装扮", "reanim/ornament_starfruit_4"],
+                    ["星星头饰", "reanim/ornament_starfruit_2"],
+                    ["嘻哈假发", "reanim/ornament_starfruit_3"]
+                ]
+            },
+            {
+            "name": "南瓜头",
+                "target": ["images/packet_plants","reanim/Pumpkin_back","reanim/Pumpkin_front","reanim/Pumpkin_damage1","reanim/Pumpkin_damage3"],
+                "ornaments": [
+                    ["Pvz2原版(默认首选）", "images/packet_plants_pvz2","reanim/Pumpkin_back_pvz2","reanim/Pumpkin_front_pvz2","reanim/Pumpkin_damage1_pvz2","reanim/Pumpkin_damage3_pvz2"],
+                    ["Pvz2改版", "images/packet_plants_plus","reanim/Pumpkin_back_plus","reanim/Pumpkin_front_plus","reanim/Pumpkin_damage1_plus","reanim/Pumpkin_damage3_plus"],
+                    ["全明星版", "images/packet_plants_allstar","reanim/Pumpkin_back_allstar","reanim/Pumpkin_front_allstar","reanim/Pumpkin_damage1_allstar","reanim/Pumpkin_damage3_allstar"]
+                ]
+            },
+            {
+                "name": "磁力菇",
+                "target": ["reanim/ornament_magnetshroom_1"],
+                "ornaments": [
+                    ["无装扮", "reanim/ornament_magnetshroom_3"],
+                    ["吸血鬼披风", "reanim/ornament_magnetshroom_2"]
+                ]
+            },
+	    	{
+                "name": "卷心菜投手",
+                "target": ["reanim/ornament_cabbage_1"],
+                "ornaments": [
+                    ["无装扮", "reanim/ornament_cabbage_7"],
+                    ["吸汗头巾", "reanim/ornament_cabbage_2"],
+                    ["小皇冠", "reanim/ornament_cabbage_3"],
+		    		["怪兽犄角", "reanim/ornament_cabbage_4"],
+		    		["绅士礼服", "reanim/ornament_cabbage_5"],
+		    		["派对帽子", "reanim/ornament_cabbage_6"]
+                ]
+            },
+            {
+                "name": "玉米投手",
+                "target": ["reanim/ornament_cornpult_1"],
+                "ornaments": [
+                    ["无装扮", "reanim/ornament_cornpult_8"],
+                    ["红色头带", "reanim/ornament_cornpult_2"],
+                    ["炫彩小丑", "reanim/ornament_cornpult_3"],
+		    		["蓝花头带", "reanim/ornament_cornpult_4"],
+		    		["绅士礼服", "reanim/ornament_cornpult_5"],
+		    		["清新蝴蝶结", "reanim/ornament_cornpult_6"],
+		    		["派对口哨", "reanim/ornament_cornpult_7"]
+                ]
+            },
+			{
+                "name": "大蒜",
+                "target": ["reanim/Garlic_body1","reanim/Garlic_body2","reanim/Garlic_body3"],
+                "ornaments": [
+                    ["无装扮", "reanim/Garlic_body1_none","reanim/Garlic_body2_none","reanim/Garlic_body3_none"],
+                    ["棒球帽", "reanim/Garlic_body1_ornament1","reanim/Garlic_body2_ornament1","reanim/Garlic_body3_ornament1"],
+		    		["橡胶手套", "reanim/Garlic_body1_ornament2","reanim/Garlic_body2_ornament2","reanim/Garlic_body3_ornament2"]
+                ]
+            },
+		    {
+                "name": "西瓜投手",
+                "target": ["reanim/ornament_melonpult_1"],
+                "ornaments": [
+                    ["无装扮", "reanim/ornament_melonpult_6"],
+                    ["白色纸帽", "reanim/ornament_melonpult_2"],
+                    ["红色帽子", "reanim/ornament_melonpult_3"],
+		    		["绅士帽", "reanim/ornament_melonpult_4"],
+		    		["未来天线", "reanim/ornament_melonpult_5"]
+                ]
+            },
+			{
+                "name": "双子向日葵",
+                "target": ["reanim/ornament_sunflower_double_1"],
+                "ornaments": [
+                    ["无装扮", "reanim/ornament_sunflower_double_7"],
+                    ["遮阳帽", "reanim/ornament_sunflower_double_2"],
+                    ["蓝底墨镜", "reanim/ornament_sunflower_double_3"],
+		    		["白色百叶镜", "reanim/ornament_sunflower_double_4"],
+		    		["红框墨镜", "reanim/ornament_sunflower_double_5"],
+		    		["绅士帽", "reanim/ornament_sunflower_double_6"]
+                ]
+            },
+			{
+                "name": "冰瓜投手",
+                "target": ["reanim/ornament_wintermelon_1"],
+                "ornaments": [
+                    ["无装扮", "reanim/ornament_wintermelon_6"],
+                    ["夹子风扇", "reanim/ornament_wintermelon_2"],
+                    ["莲蓬帽", "reanim/ornament_wintermelon_3"],
+		    		["绅士帽", "reanim/ornament_wintermelon_4"],
+		    		["蓝绒帽", "reanim/ornament_wintermelon_5"]
+                ]
+            },
+			{
+                "name": "吸金磁",
+				
+                "target": ["reanim/ornament_goldmagnet_1"],
+                "ornaments": [
+                    ["无装扮", "reanim/ornament_goldmagnet_4"],
+                    ["亿万富豪", "reanim/ornament_goldmagnet_2"],
+		    		["知名人士", "reanim/ornament_goldmagnet_3"]
+                ]
+            },
+            {
+                "name": "地刺王",
+                "target": ["reanim/ornament_spikerock_1"],
+                "ornaments": [
+                    ["无装扮", "reanim/ornament_spikerock_5"],
+                    ["黄底眼镜", "reanim/ornament_spikerock_2"],
+                    ["未来风眼镜", "reanim/ornament_spikerock_3"],
+		    		["绅士眼镜", "reanim/ornament_spikerock_4"]
+                ]
+            },
+            {
+                "name": "玉米加农炮",
+                "target": ["reanim/ornament_cobcannon_1","reanim/ornament_cobcannon_missile_1"],
+                "ornaments": [
+                    ["无装扮", "reanim/ornament_cobcannon_3","reanim/ornament_cobcannon_missile_3"],
+                    ["红色军帽", "reanim/ornament_cobcannon_2","reanim/ornament_cobcannon_missile_3"],
+                    ["迷你导弹", "reanim/ornament_cobcannon_3","reanim/ornament_cobcannon_missile_2"],
+		    		["军帽+导弹", "reanim/ornament_cobcannon_2","reanim/ornament_cobcannon_missile_2"]
+                ]
+            }                 
+        ],
+        "zombie": [
+            {
+                "name": "僵尸版块换装前须知",
+                "target": ["reanim/ZZZ"],
+                "ornaments": [
+                    ["换装后某些关卡可能闪退一次", "reanim/ZombiesWonScreen"],
+                    ["一键卸装也可能存在此类问题", "reanim/ZombiesWonScreen"],
+                    ["第二次进入关卡即可正常运行", "reanim/ZombiesWonScreen"],
+                    ["生存无尽建议提前备份好存档", "reanim/ZombiesWonScreen"]
+                ]
+            }  
+],
+        "theme": [
+            {
+                "name": "主题版块换装前须知",
+                "target": ["reanim/ZZZ"],
+                "ornaments": [
+                    ["换装后某些关卡可能闪退一次", "reanim/ZombiesWonScreen"],
+                    ["一键卸装也可能存在此类问题", "reanim/ZombiesWonScreen"],
+                    ["第二次进入关卡即可正常运行", "reanim/ZombiesWonScreen"],
+                    ["生存无尽建议提前备份好存档", "reanim/ZombiesWonScreen"]
+                ]
+            }  
+]
+    }
+}
