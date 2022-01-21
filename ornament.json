@@ -373,13 +373,11 @@
 ],
         "theme": [
             {
-                "name": "Themes (WIP)",
-                "target": ["reanim/ZZZ"],
+                "name": "Lawns",
+                "target": ["images/background5"],
                 "ornaments": [
-                    ["Feature unavailable", "reanim/ZombiesWonScreen"],
-                    ["Feature unavailable", "reanim/ZombiesWonScreen"],
-                    ["Feature unavailable", "reanim/ZombiesWonScreen"],
-                    ["Feature unavailable", "reanim/ZombiesWonScreen"]
+                    ["Pak Roof", "images/roofbackup/background5"],
+                    ["New Roof", "images/newroof/background5"]
                 ]
             }  
 ]
