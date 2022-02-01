@@ -373,11 +373,19 @@
 ],
         "theme": [
             {
-                "name": "Lawns",
+                "name": "Roof",
                 "target": ["images/background5"],
                 "ornaments": [
                     ["Pak Roof", "images/roofbackup/background5"],
                     ["New Roof", "images/newroof/background5"]
+                ]
+            },
+            {
+                "name": "Title Logo",
+                "target": ["images/PvZ_Logo"],
+                "ornaments": [
+                    ["PvZ 1", "images/PvZ1Logo"],
+                    ["PvZ 2 Pak", "images/PvZ_Logopak"]
                 ]
             }  
 ]
